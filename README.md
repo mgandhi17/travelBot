@@ -1,11 +1,14 @@
-# Messenger Platform Sample -- node.js
+# Travel ChatBot for Facebook Messenger -- node.js
 
-This project is an example server for Messenger Platform built in Node.js. With this app, you can send it messages and it will echo them back to you. You can also see examples of the different types of Structured Messages. 
+This project is a test bot for Messenger Platform built in Node.js. With this app, you can send it messages asking for train timings and it will send next train details from nearest station. You can also see information being sent in form of Structured Messages.
+
+
+##This project is built on the Facebook Sample Code, as described below
 
 It contains the following functionality:
 
 * Webhook (specifically for Messenger Platform events)
-* Send API 
+* Send API
 * Web Plugins
 * Messenger Platform v1.1 features
 

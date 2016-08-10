@@ -2,5 +2,5 @@
     "appSecret": "ce2dc944a10481fb0a808b20d074a81f",
     "pageAccessToken": "EAAZAlRXrA6WwBAL8ciIlbsZASdiGbvL4dopizLbk34KEqSZAwgujAHVQtgnMmrDs0BJ4e3OBhZAG2j6cVpznclSvm2jqo14zcwCdRVBZBr0LR4w4aZCtmkZBJQZBu9tcMZCT5hn9q7RAKJf6s2iBkA97pr38SX7PvFMr2u2tw9ZCwbxgZDZD",
     "validationToken": "MOHIT_VERIFY_BOT_TOKEN",
-    "serverURL": "http://localhost:5000/webhook"
+    "serverURL": "https://travelsimplebot.herokuapp.com/webhook"
 }

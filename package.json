@@ -1,7 +1,7 @@
 {
-  "name": "messenger-get-started",
+  "name": "travelBot",
   "version": "1.0.0",
-  "description": "Get started example for Messenger Platform",
+  "description": "Test ChatBot on Messenger",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+    "url": "https://github.com/mgandhi17/travelBot.git"
   },
-  "author": "Facebook",
+  "author": "Mohit Gandhi",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
